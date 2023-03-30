@@ -2,9 +2,8 @@
 
 ## **Objectives:**
 
-### In this Room, we have to log in th machine and catch the flag into the machine by using the Nmap Tool.
-
-### So, now let go to the Process
+In this Room, we have to log in th machine and catch the flag into the machine by using the Nmap Tool.
+So, now let go to the Process
 
 ## **Step 1:**
 
