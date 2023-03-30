@@ -41,4 +41,4 @@ we find the flag.txt file in the "user" directory.
 
 ![Alt text](flag.png)
 
-Congtratulations , we capture the flag and we solved this room. 
+Congtratulations , we captured the flag. 
