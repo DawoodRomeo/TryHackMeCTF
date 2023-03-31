@@ -14,7 +14,7 @@ So, now let go to the Process
 sudo nmap -sC -sV <machine_ip>
 ```
 
-![Scanning the Target](nmap_scan.png)
+![Scanning the Target](https://github.com/DawoodRomeo/TryHackMeCTF/blob/main/src/Intermediate%20Nmap/nmap_scan.png)
 
 after the scanning we can see the crediential for log into the target machine via ssh protocol.
 
@@ -30,7 +30,7 @@ so, in the next step we have to access the machine via ssh.
 Access the machine via ssh by using the above crediential
 <br>
 
-![ssh Login](ssh_login.png)
+![ssh Login](https://github.com/DawoodRomeo/TryHackMeCTF/blob/main/src/Intermediate%20Nmap/ssh_login.png)
 
 we successfully gain the access of machine. now, we have to find the .txt file which contain the flag.
 
