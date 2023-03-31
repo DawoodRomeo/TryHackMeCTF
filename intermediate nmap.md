@@ -39,6 +39,6 @@ we successfully gain the access of machine. now, we have to find the .txt file w
 we find the flag.txt file in the "user" directory.
 <br>
 
-![Alt text](flag.png)
+![Alt text](./src/Intermediate Nmap/flag.png)
 
 Congtratulations , we captured the flag. 
