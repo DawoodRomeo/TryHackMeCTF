@@ -18,13 +18,7 @@ sudo nmap -sC -sV <machine_ip>
 
 ![Scanning the Target](https://github.com/DawoodRomeo/TryHackMeCTF/blob/main/src/Intermediate%20Nmap/nmap_scan.png)
 
-after the scanning we can see the crediential for log into the target machine via ssh protocol.
-
-```
-user:pass
-ubuntu: Dafdas!!/str0ng
-```
-
+after the scanning we can see the *user:pass* for log into the target machine via ssh protocol.
 so, in the next step we have to access the machine via ssh.
 
 ## **Step 2:**
