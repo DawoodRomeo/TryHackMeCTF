@@ -4,7 +4,7 @@ Challenge Link: https://tryhackme.com/room/intermediatenmap
 
 ## **Objectives:**
 
-In this Room, we have to log in th machine and catch the flag into the machine by using the Nmap Tool.
+In this Room, we have to log in to machine and catch the flag by using the Nmap Tool.
 So, now let go to the Process
 
 ## **Step 1:**
